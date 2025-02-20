@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Release 3.49.0.0 source code">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Release 3.49.0.0 source code.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/sqlite-jdbc-3.49.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Release 3.49.0.0 source code.zip!/xerial-sqlite-jdbc-3c697e8/demo" />
+      <root url="jar://$USER_HOME$/Downloads/Release 3.49.0.0 source code.zip!/xerial-sqlite-jdbc-3c697e8/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/Release 3.49.0.0 source code.zip!/xerial-sqlite-jdbc-3c697e8/src/main/java9" />
+      <root url="jar://$USER_HOME$/Downloads/Release 3.49.0.0 source code.zip!/xerial-sqlite-jdbc-3c697e8/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
